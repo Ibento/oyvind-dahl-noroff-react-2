@@ -19,3 +19,10 @@ npm run dev
 ```
 npm run build 
 ```
+
+### Pages
+```
+/
+/form
+/redux
+```
